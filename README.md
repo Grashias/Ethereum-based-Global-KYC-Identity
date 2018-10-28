@@ -31,5 +31,18 @@ Check out my own Proof of Concept for Ethereum-based-Global-KYC-Identity Managem
 
 https://github.com/Grashias/Ethereum-based-Global-KYC-Identity/blob/master/Global_KYC_Identity_Management.pdf.
 
+**********************************
+
+For further queries reach me out.
+
+grashias14@gmail.com
+
+https://www.linkedin.com/in/grashias/
+
+
+
+
+
+
 
 
