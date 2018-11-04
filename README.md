@@ -3,7 +3,8 @@ This MVP/POC is based on Global Identity management or even implemented for Glob
 
 I have used the Public/open blockchain (ETHEREUM) to achieve it, as Public blockchain is open to all it can be used globally with no restrictions, also the personal data will be encrypted so as  to secure the information.
 
-***************************************************************************************************************************************
+
+# Description about the demo
 
 1. Global KYC / Identity is nothing but a unique ID for each person who is residing in any of the geolocation over the Globe.
 
@@ -27,13 +28,13 @@ I have used the Public/open blockchain (ETHEREUM) to achieve it, as Public block
 
 
 
-Check out my own Proof of Concept for Ethereum-based-Global-KYC-Identity Management.
+# Check out my own Proof of Concept for Ethereum-based-Global-KYC-Identity Management.
 
 https://github.com/Grashias/Ethereum-based-Global-KYC-Identity/blob/master/Global_KYC_Identity_Management.pdf.
 
-**********************************
 
-For further queries reach me out.
+
+# For further queries reach me out.
 
 grashias14@gmail.com
 
