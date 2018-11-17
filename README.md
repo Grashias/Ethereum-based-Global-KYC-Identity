@@ -27,6 +27,11 @@ I have used the Public/open blockchain (ETHEREUM) to achieve it, as Public block
 10. Validators fetches the portal user details, verifies the user through digital signatures with respect to their wallet address and then finally approves that user.
 
 
+# NOTE
+1. Creating a new unique ID for citizens is impossible at this time, so have used the existing government issued ID's as reference and created a global unique ID that can be used for any purpose, say like for Banks, Finance sectors, Hospitals, etc.
+
+2. ID cards mentioned here are just for reference, it can any 4 identity cards of their respective countries.
+
 
 # Check out my own Proof of Concept for Ethereum-based-Global-KYC-Identity Management.
 
